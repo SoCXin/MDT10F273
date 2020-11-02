@@ -1,0 +1,15 @@
+_delay: CODE, 489 0 7
+_Get_ADC_Result: CODE, 170 0 53
+_ISR: CODE, 449 0 14
+_Init_ADC: CODE, 476 0 13
+_main: CODE, 229 0 53
+___lwdiv: CODE, 282 0 42
+_Init_GPIO: CODE, 435 0 14
+_UartString: CODE, 463 0 13
+_UartSendUintByDecimal: CODE, 11 0 147
+_Init_Timer0_WDT: CODE, 421 0 14
+_UartSend: CODE, 360 0 33
+_UartDelay: CODE, 496 0 6
+___lwmod: CODE, 324 0 36
+_Init_INT: CODE, 504 0 2
+Total: 447

@@ -1,0 +1,8 @@
+_ISR: CODE, 62 0 41
+_Init_Timer1: CODE, 150 0 15
+_Init_Timer2: CODE, 135 0 15
+_main: CODE, 11 0 51
+_Init_GPIO: CODE, 120 0 15
+_Init_Timer0_WDT: CODE, 103 0 17
+_Init_INT: CODE, 165 0 10
+Total: 164

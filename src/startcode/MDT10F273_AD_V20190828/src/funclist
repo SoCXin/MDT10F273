@@ -1,0 +1,9 @@
+_delay: CODE, 177 0 7
+_Get_ADC_Result: CODE, 11 0 56
+_ISR: CODE, 136 0 15
+_Init_ADC: CODE, 165 0 12
+_main: CODE, 67 0 51
+_Init_GPIO: CODE, 151 0 14
+_Init_Timer0_WDT: CODE, 118 0 18
+_Init_INT: CODE, 189 0 5
+Total: 178
